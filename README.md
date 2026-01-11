@@ -8,7 +8,7 @@ Instead of providing a single “best” answer, The Referee compares multiple v
 
 ## Live Demo 🚀
 
-🔗 **Demo Link:** https://your-demo-link-here
+🔗 **Demo Link:** https://referee-ai-demo.lovable.app/
 
 ---
 
